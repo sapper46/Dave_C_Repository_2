@@ -1,1 +1,0 @@
-have each team member add a file to the master/main branch from their local machine and push that up to GitHub (SC)
