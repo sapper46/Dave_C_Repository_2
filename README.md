@@ -1,2 +1,2 @@
 # Dave_C_Repository_2
-Part 2 of TCSS502 GitHub assignment
+TCSS 502 Assignment 4 Repository
